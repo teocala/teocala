@@ -1,5 +1,5 @@
 ### Hello to everyone! 👋 
-I am a master student in Computational Science at `EPFL`, Switzerland 🇨🇭. But in reality I am italian and a previous student in Mathematical Engineering at `Polytechnic of Milan` 🇮🇹. I use GitHub for several university projects that you can see on my[![website]](https://www.matteocalafa.com). These are mainly focused on what I really love: numerical analysis for differential problems, stochastic simulations and machine learning. 
+I am a master student in Computational Science at `EPFL`, Switzerland 🇨🇭. But in reality I am italian and a previous student in Mathematical Engineering at `Polytechnic of Milan` 🇮🇹. I use GitHub for several university projects that you can also see on my [website](https://www.matteocalafa.com). These are mainly focused on what I really love: numerical analysis for differential problems, stochastic simulations and machine learning. 
 
 
 
