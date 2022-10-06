@@ -10,7 +10,7 @@ polyfillCountryFlagEmojis();
 </style>
 -->
 ### Hello to everyone! 👋 
-I am a MSc student in Computational Science at `EPFL`, Switzerland. I use GitHub for several university projects that you can also see on my [website](https://www.matteocalafa.com). These are mainly focused on what I really love: numerical analysis for differential problems, stochastic simulations and machine learning. 
+I am a MSc student in Computational Science at `EPFL`, Switzerland. I use GitHub for several university projects that you can also see on my [website](https://www.matteocalafa.com). Most of the works are focused on what I really love: numerical analysis for differential problems, stochastic simulations and machine learning. 
 
 
 
